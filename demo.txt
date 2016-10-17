@@ -12,3 +12,5 @@ Creating a new branch is quick AND simple
 >>>>>>> demo1
 
 Creating a new branch is quick and simple
+
+--no-ff
